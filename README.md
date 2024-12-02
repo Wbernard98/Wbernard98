@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou trabalhando em outra área, que não é como dev.
 - 🌱 Atualmente estou aprendendo, JavaScript
-- 🤔 Estou procurando ajuda com meu primeiro emprego como desenolvedor front-end junior.
+- 🤔 Estou procurando ajuda com meu primeiro emprego como desenvolvedor front-end junior.
 - 📫 Como entrar em contato comigo: wellington.vargas.bernardes80@gmail.com
 
 <picture>
