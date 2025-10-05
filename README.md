@@ -9,41 +9,38 @@ Olá! Meu nome é Wellington Bernardes e estou em transição de carreira para m
 * Buscando minha primeira oportunidade como **Desenvolvedor Front-End Júnior**.
 
 ### 🌱 Habilidades e Tecnologias
-* **Linguagens:** JavaScript (em aprendizado contínuo), HTML5, CSS3
-* **Controle de Versão:** Git, GitHub
-* **Em breve:** Tailwind CSS, React
-
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
+</div>
+<br><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wbernard98&show_icons=true&theme=dark" alt="Wellington's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wbernard98&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img align="center" alt="Wellington-HTML" height="30" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wellington-CSS" height="30" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Wellington-JS" height="30" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</p>
 
-### Projetos Destacados
-*(Lembre-se de fixar estes repositórios no seu perfil do GitHub. Inclua links para o deploy se houver.)*
 
-* **[Nome do Projeto 1]**
-    * Uma breve descrição do projeto, o que ele faz e quais tecnologias foram usadas.
-    * [Link para o projeto online](URL_DO_PROJETO_ONLINE)
-
-* **[Nome do Projeto 2]**
-    * Uma breve descrição do projeto, o que ele faz e quais tecnologias foram usadas.
-    * [Link para o projeto online](URL_DO_PROJETO_ONLINE)
-
-* **[Nome do Projeto 3]**
-    * Uma breve descrição do projeto, o que ele faz e quais tecnologias foram usadas.
-    * [Link para o projeto online](URL_DO_PROJETO_ONLINE)
-
----
 
 ### Como entrar em contato comigo:
-* **Email:** [wellington.vargas.bernardes80@gmail.com](mailto:wellington.vargas.bernardes80@gmail.com)
-* **LinkedIn:** [linkedin.com/in/wellington-bernardes-303378156/](https://www.linkedin.com/in/wellington-bernades-303378156/)
-
----
+<div align="left">
+  <a href="www.linkedin.com/in/wellington-bernardes-dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/bernardes_wellington/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
